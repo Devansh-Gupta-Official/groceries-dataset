@@ -17,7 +17,7 @@ The analysis is performed on the 'groceries.csv' dataset, containing transaction
 5. Customize the model by adjusting parameters, exploring different evaluation metrics, or using other datasets.
 
 ## **Files**
-- apriori_Devansh_Gupta.ipynb: Jupyter Notebook containing the entire process of implementing the Apriori algorithm and analyzing association rules.
+- apriori_Devansh Gupta.ipynb: Jupyter Notebook containing the entire process of implementing the Apriori algorithm and analyzing association rules.
 - groceries.csv: Dataset used for association rule mining.
 
 ## **Results**
